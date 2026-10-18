@@ -1,0 +1,7 @@
+# libraries come in through .pkgmeta externals when a release is packaged
+libs/
+# logs people send in stay out of the repo (character names)
+*.lua.bak
+SavedVariables/
+.DS_Store
+Thumbs.db
